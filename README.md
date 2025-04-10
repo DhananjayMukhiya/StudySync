@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-> 🚀 [Click here to view the live demo](https://your-live-site-link.com)
+> 🚀 [Click here to view the live demo](https://dhananjaymukhiya.github.io/StudySync/)
 
 ---
 
