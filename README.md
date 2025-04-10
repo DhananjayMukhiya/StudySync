@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/780ac54c-631d-413c-96af-18dfe650362b" alt="Dhananjay's photo"/>
+      <img src="https://github.com/user-attachments/assets/780ac54c-631d-413c-96af-18dfe650362b" alt="Dhananjay's photo" width="100"/>
     </td>
     <td>
       <b>Dhananjay</b><br>
