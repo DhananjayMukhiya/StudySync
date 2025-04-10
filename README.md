@@ -45,7 +45,7 @@
       <img src="https://github.com/user-attachments/assets/780ac54c-631d-413c-96af-18dfe650362b" alt="Dhananjay's photo" width="100" style="border-radius: 12px;"/>
     </td>
     <td>
-      <b>Dhananjay</b><br>
+      <b>Dhananjay Mukhiya</b><br>
       🎓 CSE Student @ NGP Patna<br>
       🌱 Learning from: <b>Love Babbar's Dot Batch</b><br>
       💻 Tech Stack: MERN, HTML, CSS, JavaScript<br>
